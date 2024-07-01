@@ -1,5 +1,5 @@
 const greet = (name: string) => {
-  console.log('Hello, ' + name + '!');
+  console.log('Hello, d' + name + '!');
 };
 
 greet('World');
